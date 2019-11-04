@@ -1,8 +1,8 @@
-Marc-André Gasser, Design, Concept, System
-Fiona Link, JavaScript, PHP, Graphics, Photographs
-Hrishikesh Bidwe, Electronics
+Marc-André Gasser, Design, Concept, System</br>
+Fiona Link, JavaScript, PHP, Graphics, Photographs</br>
+Hrishikesh Bidwe, Electronics</br>
 
-Credits:
+Credits:</br>
 [PiMapper](https://github.com/kr15h/ofxPiMapper)
 Simon Josi[OmxplayerSync](https://github.com/turingmachine/omxplayer-sync)
 Magnus Herrlin[DMX](https://github.com/MagnusHerrlin/DmxRecorder)
