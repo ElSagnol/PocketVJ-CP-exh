@@ -11,6 +11,9 @@
 
 - Complete authors file
 
+**Tests:** <p/>
+- test sync script with large files
+
 
 **Tutorials:** <p/>
 -create list of OSC commands for website (link it)
