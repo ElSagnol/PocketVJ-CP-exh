@@ -17,6 +17,7 @@
 
 - Video tutorial for connecting knobs (simple number game)
 - Video tutorial for presenter
+- Video tutorial for VNC/Linux/remote Mapping/Recording
 
 - Write the .pdf manual
 
