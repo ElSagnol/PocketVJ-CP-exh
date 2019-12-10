@@ -12,7 +12,7 @@
 - Complete authors file
 
 
-**Tutorials:**
+**Tutorials:** <p/>
 -create list of OSC commands for website (link it)
 
 - Video tutorial for connecting knobs (simple number game)
