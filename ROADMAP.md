@@ -11,14 +11,16 @@
 
 - Complete authors file
 
-**Tests:** <p/>
-- test sync script with large files
-
 
 **Tutorials:** <p/>
--create list of OSC commands for website (link it)
+- create list of OSC commands for website (link it)
 
 - Video tutorial for connecting knobs (simple number game)
 - Video tutorial for presenter
 
 - Write the .pdf manual
+
+
+**Tests:** <p/>
+
+- test sync script with large files, adjust window if necessary
