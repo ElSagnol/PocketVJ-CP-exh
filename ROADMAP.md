@@ -6,6 +6,7 @@
 - Add DMX in control commands to control the video player/mapper with DMX
 - Add ArtNet control commands to control the video player with ArtNet
 
+- Update Midi control commands to trigger all 99 DMX shows
 - Update OSC commands with DMX stuff
 
 - Comlete authors file
