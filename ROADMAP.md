@@ -9,10 +9,11 @@
 - Update Midi control commands to trigger all 99 DMX shows
 - Update OSC commands with DMX stuff
 
-- Comlete authors file
+- Complete authors file
 
 
 **Tutorials:**
+-create list of OSC commands for website (link it)
 
 - Video tutorial for connecting knobs (simple number game)
 - Video tutorial for presenter
