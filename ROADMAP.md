@@ -1,12 +1,12 @@
 **Roadmap / Next Steps:** <p/>
 
-- Add 99 presets to record and playback DMX shows
-- Add 99 presets to record and playback DMX shows with video
+- Add 41-99 preset and script to record and playback DMX shows
+- Add 06-99 presets to record and playback DMX shows with video
+- also add these in midicontrol.cfg
 
 - Add DMX in control commands to control the video player/mapper with DMX
 - Add ArtNet control commands to control the video player with ArtNet
 
-- Update Midi control commands to trigger all 99 DMX shows
 - Update OSC commands with DMX stuff
 
 - Complete authors file
