@@ -1,7 +1,7 @@
 # PocketVJ Exhibition / Control Panel 3.x.x
 
 
-## CP 3.0.1 no date yet .December 2019 <br />
+## CP 3.0.1 16.December 2019 <br />
 - Updated midicontrol.cfg with commands to start/record dmx show 01-40<p/>
 - Added scripts to play/record dmx show 01-40<p/>
 - Added OSC control commands for dmx 01-05 play/record/play with video and enable/disable midi control<p/>
