@@ -11,8 +11,9 @@
 
 **Tutorials:** <p/>
 
-- create list of OSC/midi commands for website (without code around it)
+- Scheduler Tutorial!
 
+- create list of OSC/midi commands for website (without code around it)
 - Video tutorial for connecting knobs (simple number game)
 - Video tutorial for presenter
 - Video tutorial for VNC/Linux/remote Mapping/Recording
