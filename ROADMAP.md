@@ -1,5 +1,8 @@
 **Roadmap / Next Steps:** <p/>
 
+- Add scripts & Buttons to trigger dmxshow together with videoplayer sync
+- Add show commands to scheduler
+
 - Add DMX in control commands to control the video player/mapper with DMX
 - Add ArtNet control commands to control the video player with ArtNet
 
