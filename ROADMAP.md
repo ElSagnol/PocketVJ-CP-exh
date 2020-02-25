@@ -3,6 +3,10 @@
 - Add scripts & Buttons to trigger dmxshow together with videoplayer sync
 - Add show commands to scheduler
 
+- Better softedge solution
+- System alive ping, which sends out an email every 5 minutes to tell that beamer&pocketvj is alive, alarm function.
+- AES67 Support, is it possible?
+
 - Add DMX in control commands to control the video player/mapper with DMX
 - Add ArtNet control commands to control the video player with ArtNet
 
