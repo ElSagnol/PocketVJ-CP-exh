@@ -10,6 +10,8 @@
 - Add DMX in control commands to control the video player/mapper with DMX
 - Add ArtNet control commands to control the video player with ArtNet
 
+- Fix the new line argument in timer file so you do not have to add an empty line
+
 - Complete authors file
 
 
