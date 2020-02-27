@@ -1,9 +1,10 @@
 **Roadmap / Next Steps:** <p/>
 
 - Add scripts & Buttons to trigger dmxshow together with videoplayer sync
-- Add show commands to scheduler
+- Add show commands to scheduler (dmx only, dmx & video)
 
 - Better softedge solution
+- remote mapper with softedge and gridwarp (currently recruiting coders)
 - System alive ping, which sends out an email every 5 minutes to tell that beamer&pocketvj is alive, alarm function.
 - AES67 Support, is it possible?
 
@@ -17,7 +18,6 @@
 
 **Tutorials:** <p/>
 
-- Scheduler Tutorial!
 
 - create list of OSC/midi commands for website (without code around it)
 - Video tutorial for connecting knobs (simple number game)
