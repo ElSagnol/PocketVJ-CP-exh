@@ -4,6 +4,7 @@
 - added dmx commands to scheduler<p/>
 - added force resoultion to 1920x1200<p/>
 - added remotemapper (beta)<p/>
+- added ofxJSON<p/>
 
 ## CP 3.0.1 16.December 2019 <br />
 - Updated midicontrol.cfg with commands to start/record dmx show 01-40<p/>
