@@ -1,5 +1,9 @@
 # PocketVJ Exhibition / Control Panel 3.x.x
 
+## CP 3.0.2 02.March 2020 <br />
+- added dmx commands to scheduler<p/>
+- added force resoultion to 1920x1200<p/>
+- added remotemapper (beta)<p/>
 
 ## CP 3.0.1 16.December 2019 <br />
 - Updated midicontrol.cfg with commands to start/record dmx show 01-40<p/>
