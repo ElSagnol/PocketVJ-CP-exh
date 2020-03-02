@@ -4,6 +4,7 @@
 - added dmx commands to scheduler<p/>
 - added force resoultion to 1920x1200<p/>
 - added remotemapper (beta)<p/>
+- fixed a typo in updateeverything function<p/>
 
 ## Image 4.0.1 March 2020 <br />
 - added ofxJSON<p/>
