@@ -7,7 +7,7 @@
 - System alive ping, which sends out an email every 5 minutes to tell that beamer&pocketvj is alive, alarm function.
 - AES67 Support, is it possible (https://github.com/dewiweb/ALSA-RAVENNA-AES67-Driver)
 
-- check if UltraGrid works (https://github.com/CESNET/UltraGrid/wiki/Running-UltraGrid#Sendingreceiving) compiling works but how to use?
+- check if UltraGrid works https://github.com/CESNET/UltraGrid/wiki/Raspberry-Pi-display compiling works but how to use?
 
 - Add DMX in control commands to control the video player/mapper with DMX
 - Add ArtNet control commands to control the video player with ArtNet
