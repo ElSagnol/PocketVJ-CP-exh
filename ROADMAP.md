@@ -5,7 +5,7 @@
 - Better softedge solution, maybe within mapper
 - Mapper softedge, better circular (searching for oxf coders)
 - System alive ping, which sends out an email every 5 minutes to tell that beamer&pocketvj is alive, alarm function.
-- AES67 Support, is it possible?
+- AES67 Support, is it possible (https://github.com/dewiweb/ALSA-RAVENNA-AES67-Driver)
 
 - check if UltraGrid works (https://github.com/CESNET/UltraGrid/wiki/Running-UltraGrid#Sendingreceiving) compiling works but how to use?
 
