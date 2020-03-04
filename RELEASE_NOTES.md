@@ -3,12 +3,13 @@
 ## CP 3.0.3 04.March 2020 <br />
 - fixed the pause function in headers shortcuts<p/>
 - fixed hwclock issue (time was not saved), [see here](https://github.com/magdesign/PocketVJ-CP-exh/issues/1)<p/>
+- added setting for an external temperature sensor<p/>
 
 ## CP 3.0.2 02.March 2020 <br />
 - added dmx commands to scheduler<p/>
-- added force resoultion to 1920x1200<p/>
+- added force resolution to 1920x1200<p/>
 - added remotemapper (beta)<p/>
-- fixed a typo in updateeverything function<p/>
+- fixed a typo in "update everything" function, users befor 3.0.2 most update with [this](https://vimeo.com/308801484) method<p/>
 
 ## Image 4.0.1 March 2020 <br />
 - added ofxJSON<p/>
