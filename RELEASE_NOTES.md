@@ -9,7 +9,7 @@
 - added dmx commands to scheduler<p/>
 - added force resolution to 1920x1200<p/>
 - added remotemapper (beta)<p/>
-- fixed a typo in "update everything" function, users before 3.0.2 must update with [this](https://vimeo.com/308801484) method<p/>
+- fixed a typo in "update everything" function, users with CP 3.0.1 or older must update with [this](https://vimeo.com/308801484) method<p/>
 
 ## Image 4.0.1 March 2020 <br />
 - added ofxJSON<p/>
