@@ -1,4 +1,6 @@
 # PocketVJ Exhibition / Control Panel 3.x.x
+## Image 4.0.2 04.March 2020 <br />
+- added library for DHT11 sensor (Adafruit_Python_DHT)<p/>
 
 ## CP 3.0.3 04.March 2020 <br />
 - fixed the pause function in headers shortcuts<p/>
