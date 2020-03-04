@@ -1,5 +1,8 @@
 # PocketVJ Exhibition / Control Panel 3.x.x
 
+## CP 3.0.2a 04.March 2020 <br />
+- fixed the pause function in headers shortcuts<p/>
+
 ## CP 3.0.2 02.March 2020 <br />
 - added dmx commands to scheduler<p/>
 - added force resoultion to 1920x1200<p/>
