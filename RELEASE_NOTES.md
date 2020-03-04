@@ -1,7 +1,8 @@
 # PocketVJ Exhibition / Control Panel 3.x.x
 
-## CP 3.0.2a 04.March 2020 <br />
+## CP 3.0.3 04.March 2020 <br />
 - fixed the pause function in headers shortcuts<p/>
+- fixed hwclock issue (time was not saved), fix button under settings<p/>
 
 ## CP 3.0.2 02.March 2020 <br />
 - added dmx commands to scheduler<p/>
