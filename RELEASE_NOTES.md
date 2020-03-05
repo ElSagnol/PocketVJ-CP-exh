@@ -1,4 +1,8 @@
 # PocketVJ Exhibition / Control Panel 3.x.x
+
+## CP 3.0.4 04.March 2020 <br />
+- add function to ask if projector is on or off<p/>
+
 ## Image 4.0.2 04.March 2020 <br />
 - added library for DHT11 sensor (Adafruit_Python_DHT)<p/>
 
