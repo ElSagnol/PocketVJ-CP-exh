@@ -1,6 +1,8 @@
 **Roadmap / Next Steps:** <p/>
 
-- Add Buttons to trigger dmxshow together with videoplayer sync
+- fix bug when clock on screen, after stop it does not go away
+
+- Add Buttons to trigger dmxshow together with videoplayer sync (already works with osc/scheduler)
 
 - Better softedge solution, maybe within mapper
 - Mapper softedge, better circular (searching for oxf coders)
