@@ -1,7 +1,8 @@
 # PocketVJ Exhibition / Control Panel 3.x.x
 
 ## CP 3.0.4 05.March 2020 <br />
-- fixed formatting of timer.txt file<p/>
+- fixed formatting of timer.txt file (browser writes hidden ^M$
+ instead of $ only)<p/>
 - added function to ask if projector is on or off<p/>
 
 ## Image 4.0.2 04.March 2020 <br />
