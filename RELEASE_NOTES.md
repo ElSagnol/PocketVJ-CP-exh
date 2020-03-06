@@ -6,6 +6,7 @@
 
 ## Image 4.0.2 04.March 2020 <br />
 - added library for DHT11 sensor (Adafruit_Python_DHT)<p/>
+- fixe audio volume for USB soundcard to standard 100% <p/>
 
 ## CP 3.0.3 04.March 2020 <br />
 - fixed the pause function in headers shortcuts<p/>
