@@ -4,6 +4,7 @@
 - fixed formatting of timer.txt file (browser writes hidden ^M$
  instead of $ only)<p/>
 - added function to ask if projector is on or off<p/>
+- added button to set audio volume of USB soundcard to 100% and store this value<p/>
 
 ## Image 4.0.2 04.March 2020 <br />
 - added library for DHT11 sensor (Adafruit_Python_DHT)<p/>
