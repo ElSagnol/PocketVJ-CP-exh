@@ -1,5 +1,7 @@
 **Roadmap / Next Steps:** <p/>
 
+-fix bug: connecting to a wifi does not serve internet... DNS error? iprule?
+
 - fix bug when clock on screen, after stop it does not go away
 
 - Add Buttons to trigger dmxshow together with videoplayer sync (already works with osc/scheduler)
