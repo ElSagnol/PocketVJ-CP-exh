@@ -1,6 +1,6 @@
 **Roadmap / Next Steps:** <p/>
 
--fix bug: connecting to a wifi does not serve internet... DNS error? iprule?
+-fix bug: connecting to a wifi does only serve internet when no RJ45 cable is connected, OPenVPN currently only works on RJ45, enable for wifi as well!!
 
 - fix bug when clock on screen, after stop it does not go away
 
