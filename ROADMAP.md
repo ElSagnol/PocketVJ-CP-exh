@@ -1,6 +1,5 @@
 **Roadmap / Next Steps:** <p/>
 
--fix bug: connecting to a wifi does only serve internet when no RJ45 cable is connected, and remote access with OpenVPN currently only works on RJ45, enable for wifi as well!! So currently, do no use the connect to wifi option!!!
 
 - fix bug when clock on screen, after stop it does not go away
 
