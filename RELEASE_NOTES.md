@@ -1,5 +1,11 @@
 # PocketVJ Exhibition / Control Panel 3.x.x
 
+## CP 3.0.5 08.March 2020 <br />
+- fixed function to test to conenct to a wifi network<p/>
+- after updateing make sure to click "Factory Preset" to apply changes systemwide!<p/>
+- added function to look which wifi networks are available<p/>
+- added function to check to which wifi you are connected<p/>
+
 ## CP 3.0.4 05.March 2020 <br />
 - fixed formatting of timer.txt file (browser writes hidden ^M$
  instead of $ only)<p/>
