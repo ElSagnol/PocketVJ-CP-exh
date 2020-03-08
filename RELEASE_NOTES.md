@@ -7,6 +7,9 @@
 - added function to look which wifi networks are available<p/>
 - added function to check to which wifi you are connected<p/>
 
+## Image 4.0.3 08.March 2020 <br />
+- implemented RTC fix and remote wifi fix<p/>
+
 ## CP 3.0.4 05.March 2020 <br />
 - fixed formatting of timer.txt file (browser writes hidden ^M$
  instead of $ only)<p/>
