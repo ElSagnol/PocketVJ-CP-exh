@@ -3,6 +3,7 @@
 ## CP 3.0.5 08.March 2020 <br />
 - fixed function to test to conenct to a wifi network<p/>
 - after updating make, click "Factory Rreset" in the red tab to apply changes systemwide!<p/>
+- when no clicking on "Connect/Test" it will automatically set remote access on and protects CP with a login <p/>
 - added function to look which wifi networks are available<p/>
 - added function to check to which wifi you are connected<p/>
 
