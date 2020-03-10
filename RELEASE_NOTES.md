@@ -1,5 +1,9 @@
 # PocketVJ Exhibition / Control Panel 3.x.x
 
+## CP 3.0.6 10.March 2020 <br />
+- fixed "Scheduler Off", did not clean out scheduler before<p/>
+- fixed user rights of videos triggered from scheduler<p/>
+
 ## CP 3.0.5 08.March 2020 <br />
 - fixed function to test to conenct to a wifi network<p/>
 - after updating make, click "Factory Rreset" in the red tab to apply changes systemwide!<p/>
