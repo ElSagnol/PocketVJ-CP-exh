@@ -1,5 +1,13 @@
 # PocketVJ Exhibition / Control Panel 3.x.x
 
+## CP 3.0.7 19.March 2020 <br />
+- added maperremote button<p/>
+- added kenburns slideshow (beta)<p/>
+
+## Image 4.0.4 19.March 2020 <br />
+- added pi3d library for kenburns slideshow<p/>
+- added python-pil which is needed by pi3d<p/>
+
 ## CP 3.0.6 10.March 2020 <br />
 - fixed "Scheduler Off", did not clean out scheduler before<p/>
 - fixed user rights of videos triggered from scheduler<p/>
