@@ -1,5 +1,8 @@
 # PocketVJ Exhibition / Control Panel 3.x.x
 
+## CP 3.0.8 30.March 2020 <br />
+- added artnet/dmx remote control <p/>
+
 ## CP 3.0.7 19.March 2020 <br />
 - added maperremote button<p/>
 - added kenburns slideshow (beta)<p/>
