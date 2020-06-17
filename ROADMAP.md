@@ -1,7 +1,7 @@
 **Roadmap / Next Steps:** <p/>
 
 - Mapper softedge & fullscreen (prototype running, implement final version) <p/>
-- add udp:// control commands, used by people doing media installations <p/>
+- add udp:// control commands, (protoype runs, needs testing and implementation to CP <p/>
 <p/>
 
 - fix bug when clock on screen, after stop it does not go away <p/>
