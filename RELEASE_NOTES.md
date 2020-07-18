@@ -1,5 +1,8 @@
 # PocketVJ Exhibition / Control Panel 3.x.x
 
+## CP 3.0.9 18.July 2020 <br />
+- added UDP listener (users before Image 4.0.5 need to install socat) <p/>
+
 ## CP 3.0.8a 18.July 2020 <br />
 - fixed an issue whit a .js script which was linked to an online version, caused that "tabs" on CP where not working <p/>
 
