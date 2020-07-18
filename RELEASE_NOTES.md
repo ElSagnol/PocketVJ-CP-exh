@@ -1,10 +1,10 @@
 # PocketVJ Exhibition / Control Panel 3.x.x
 
 ## CP 3.0.8a 18.July 2020 <br />
-- fixed an issue that a js script was linked to an online version, which cause that "tabs" on CP where not working <p/>
+- fixed an issue whit a .js script which was linked to an online version, caused that "tabs" on CP where not working <p/>
 
 ## Image 4.0.5 18. July 2020 <br />
-- added socat for UDP listerner (previous clients can install this manually with: apt-get install socat) <p/>
+- added socat for UDP listener (previous clients can install this manually with: apt-get install socat) <p/>
 
 ## CP 3.0.8 30.March 2020 <br />
 - added artnet/dmx remote control <p/>
