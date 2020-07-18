@@ -1,5 +1,9 @@
 # PocketVJ Exhibition / Control Panel 3.x.x
 
+## CP 3.0.8a 18.July 2020 <br />
+- fixed an issue that a js script was linked to an online version, which cause that "tabs" on CP where not working <p/>
+
+
 ## CP 3.0.8 30.March 2020 <br />
 - added artnet/dmx remote control <p/>
 
