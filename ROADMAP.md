@@ -1,7 +1,7 @@
 **Roadmap / Next Steps:** <p/>
 
-- Mapper softedge & fullscreen (prototype running, implement final version) <p/>
-- add udp:// control commands, (protoype runs, needs testing and implementation to CP <p/>
+- Mapper softedge & fullscreen (prototype running, implement final version, buttons are already in CP) <p/>
+- test UDP and add more commands to the script <p/>
 <p/>
 
 - fix bug when clock on screen, after stop it does not go away <p/>
@@ -18,8 +18,9 @@
 - Factory Preset function for renthal units (delets all content, ads testfiles...) <p/>
 
 
-**Tutorials:** <p/>
+**Tutorials/Manual:** <p/>
 
+- add UDP commands and how to use with \n argument, UDP port is 5000<p/>
 - remote mapper<p/>
 - create list of OSC/midi commands for website (without code around it)<p/>
 - Video tutorial for connecting knobs (simple number game)<p/>
