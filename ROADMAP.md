@@ -1,5 +1,6 @@
 **Roadmap / Next Steps:** <p/>
 
+- rental reset button, which cleans all video, puts testvideo in folder, makes factory state, good for rental institutions <p/>
 - Mapper softedge & fullscreen (prototype running, implement final version, buttons are already in CP) <p/>
 - test UDP and add more commands to the script <p/>
 <p/>
