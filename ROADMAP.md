@@ -1,7 +1,6 @@
 **Roadmap / Next Steps:** <p/>
 
-- rental reset button, which cleans all video, puts testvideo in folder, makes factory state, good for rental institutions <p/>
-- Mapper softedge & fullscreen (prototype running, implement final version, buttons are already in CP) <p/>
+- update image to also copy PIR videos on rental reset button<p/>
 - test UDP and add more commands to the script <p/>
 <p/>
 
@@ -16,7 +15,6 @@
 - Complete authors file <p/>
 <p/>
 
-- Factory Preset function for renthal units (delets all content, ads testfiles...) <p/>
 
 
 **Tutorials/Manual:** <p/>
