@@ -1,5 +1,14 @@
 # PocketVJ Exhibition / Control Panel 3.x.x
 
+## CP 3.1.0 14.August 2020<br />
+- added new mapper with more performance  <p/>
+- added fullscreen function for mapper  <p/>
+- added edgeblend function for mapper  <p/>
+- added renthal reset (older versions than 4.0.6 need to copy 01_Testfile_HD.mp4 to /home/pvj/content/)  <p/>
+
+## Image 4.0.6 14.August 2020 <br />
+- copied standard files to /home/pvj/content/ for renthal preset function  <p/>
+
 ## CP 3.0.9 18.July 2020 <br />
 - added UDP listener (users before Image 4.0.5 need to install socat) <p/>
 
