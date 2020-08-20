@@ -1,5 +1,9 @@
 # PocketVJ Exhibition / Control Panel 3.x.x
 
+## CP 3.1.1 20.August 2020<br />
+- removed softedge button under mapper, since there is already an "Edge Blend" button  <p/>
+- added to Renthal Reset: disable scheduler, recreate full folder structure  <p/>
+
 ## CP 3.1.0 14.August 2020<br />
 - added new mapper with more performance  <p/>
 - added fullscreen function for mapper  <p/>
