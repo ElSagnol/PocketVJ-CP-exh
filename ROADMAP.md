@@ -1,6 +1,6 @@
 **Roadmap / Next Steps:** <p/>
 
-- update image to also copy PIR videos on rental reset button<p/>
+
 - test UDP and add more commands to the script <p/>
 <p/>
 
@@ -19,7 +19,7 @@
 
 **Tutorials/Manual:** <p/>
 
-- add UDP commands and how to use with \n argument, UDP port is 5000<p/>
+- how to change the distance of the pir sensor, factory wise set to ~5m and can be changed to ~3 to ~5m<p/>
 - remote mapper<p/>
 - create list of OSC/midi commands for website (without code around it)<p/>
 - Video tutorial for connecting knobs (simple number game)<p/>
