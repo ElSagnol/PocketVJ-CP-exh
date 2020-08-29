@@ -19,7 +19,7 @@
 
 **Tutorials/Manual:** <p/>
 
-- how to change the distance of the pir sensor, factory wise set to ~5m and can be changed to ~3 to ~5m<p/>
+- how to change the distance of the pir sensor, factory wise set to ~5m and can be changed to ~3 to ~7m<p/>
 - remote mapper<p/>
 - create list of OSC/midi commands for website (without code around it)<p/>
 - Video tutorial for connecting knobs (simple number game)<p/>
