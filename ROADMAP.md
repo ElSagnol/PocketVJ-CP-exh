@@ -1,6 +1,7 @@
 **Roadmap / Next Steps:** <p/>
 
-
+- fix slightly screen tearing in mapping since edgeblend is introduces(coming with next CP update..) <p/>
+- think about adding sonic pi <p/>
 - test UDP and add more commands to the script <p/>
 <p/>
 
@@ -19,7 +20,7 @@
 
 **Tutorials/Manual:** <p/>
 
-- how to change the distance of the pir sensor, factory wise set to ~5m and can be changed to ~3 to ~7m<p/>
+- how to change the distance of the pir sensor, factory wise set to ~5m and can be changed from ~3 to ~7m<p/>
 - remote mapper<p/>
 - create list of OSC/midi commands for website (without code around it)<p/>
 - Video tutorial for connecting knobs (simple number game)<p/>
