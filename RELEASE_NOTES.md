@@ -1,5 +1,17 @@
 # PocketVJ Exhibition / Control Panel 3.x.x
 
+## CP 3.1.2 27.September 2020<br />
+- fixed scaling of mapper logo  <p/>
+- added play dmxshow01 with audio01 (show01 to show05)  <p/>
+- added a delay window to be able to sync manually dmxshow to video&audio  <p/>
+- updated the dmxvideo scripts to the new style with delay syncing <p/>
+- added USB output to dmxaudio/dmxvideo  <p/>
+- added dmx to autostart <p/>
+- added blackout dmx to stop button, so all lamps go to black when hitting stop <p/>
+- added dmxaudio/dmxvideo to OSC commands  <p/>
+- added dmxaudio/dmxvideo to UDP commands  <p/>
+- fixed a wrong .js linke which caused CP to be unselectable <p/>
+
 ## CP 3.1.1 20.August 2020<br />
 - removed softedge button under mapper, since there is already an "Edge Blend" button  <p/>
 - added to Renthal Reset: disable scheduler, recreate full folder structure  <p/>
