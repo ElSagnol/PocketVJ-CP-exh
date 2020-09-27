@@ -134,6 +134,18 @@ exec("sudo sed -ri 's/-o [[:graph:]]+/-o hdmi/' /var/www/sync/startmasterone10")
 exec("sudo sed -ri 's/-o [[:graph:]]+/-o hdmi/' /var/www/sync/startmasterone11");
 exec("sudo sed -ri 's/-o [[:graph:]]+/-o hdmi/' /var/www/sync/startmasterone12");
 exec("sudo sed -ri 's/-o [[:graph:]]+/-o hdmi/' /var/www/sync/startseamless");
+//#set the audio on dmx scripts
+exec("sudo sed -ri 's/-o [[:graph:]]+/-o hdmi/' /var/www/sync/startdmxplaybackaudio01");
+exec("sudo sed -ri 's/-o [[:graph:]]+/-o hdmi/' /var/www/sync/startdmxplaybackaudio02");
+exec("sudo sed -ri 's/-o [[:graph:]]+/-o hdmi/' /var/www/sync/startdmxplaybackaudio03");
+exec("sudo sed -ri 's/-o [[:graph:]]+/-o hdmi/' /var/www/sync/startdmxplaybackaudio04");
+exec("sudo sed -ri 's/-o [[:graph:]]+/-o hdmi/' /var/www/sync/startdmxplaybackaudio05");
+exec("sudo sed -ri 's/-o [[:graph:]]+/-o hdmi/' /var/www/sync/startdmxplaybackvid01");
+exec("sudo sed -ri 's/-o [[:graph:]]+/-o hdmi/' /var/www/sync/startdmxplaybackvid02");
+exec("sudo sed -ri 's/-o [[:graph:]]+/-o hdmi/' /var/www/sync/startdmxplaybackvid03");
+exec("sudo sed -ri 's/-o [[:graph:]]+/-o hdmi/' /var/www/sync/startdmxplaybackvid04");
+exec("sudo sed -ri 's/-o [[:graph:]]+/-o hdmi/' /var/www/sync/startdmxplaybackvid05");
+
 //#exec("sudo sed -ri 's/-o [[:graph:]]+/-o hdmi/' /var/www/sync/startaudio");
 //#exec("sudo sed -ri 's/-o [[:graph:]]+/-o hdmi/' /var/www/sync/startaudioslave");
 //#exec("sudo sed -ri 's/-o [[:graph:]]+/-o hdmi/' /var/www/sync/startaudiousb");
@@ -180,6 +192,18 @@ exec("sudo sed -ri 's/-o [[:graph:]]+/-o local/' /var/www/sync/startseamless");
 exec("sudo sed -ri 's/-o [[:graph:]]+/-o local/' /var/www/sync/startaudio");
 exec("sudo sed -ri 's/-o [[:graph:]]+/-o local/' /var/www/sync/startaudioslave");
 exec("sudo sed -ri 's/-o [[:graph:]]+/-o local/' /var/www/sync/startaudiousb");
+//#set the audio on dmx scripts
+exec("sudo sed -ri 's/-o [[:graph:]]+/-o local/' /var/www/sync/startdmxplaybackaudio01");
+exec("sudo sed -ri 's/-o [[:graph:]]+/-o local/' /var/www/sync/startdmxplaybackaudio02");
+exec("sudo sed -ri 's/-o [[:graph:]]+/-o local/' /var/www/sync/startdmxplaybackaudio03");
+exec("sudo sed -ri 's/-o [[:graph:]]+/-o local/' /var/www/sync/startdmxplaybackaudio04");
+exec("sudo sed -ri 's/-o [[:graph:]]+/-o local/' /var/www/sync/startdmxplaybackaudio05");
+exec("sudo sed -ri 's/-o [[:graph:]]+/-o local/' /var/www/sync/startdmxplaybackvid01");
+exec("sudo sed -ri 's/-o [[:graph:]]+/-o local/' /var/www/sync/startdmxplaybackvid02");
+exec("sudo sed -ri 's/-o [[:graph:]]+/-o local/' /var/www/sync/startdmxplaybackvid03");
+exec("sudo sed -ri 's/-o [[:graph:]]+/-o local/' /var/www/sync/startdmxplaybackvid04");
+exec("sudo sed -ri 's/-o [[:graph:]]+/-o local/' /var/www/sync/startdmxplaybackvid05");
+
 });
 
 receiver.on('/audioboth', function () {
@@ -223,6 +247,17 @@ exec("sudo sed -ri 's/-o [[:graph:]]+/-o both/' /var/www/sync/startseamless");
 exec("sudo sed -ri 's/-o [[:graph:]]+/-o both/' /var/www/sync/startaudio");
 exec("sudo sed -ri 's/-o [[:graph:]]+/-o both/' /var/www/sync/startaudioslave");
 exec("sudo sed -ri 's/-o [[:graph:]]+/-o both/' /var/www/sync/startaudiousb");
+//#set the audio on dmx scripts
+exec("sudo sed -ri 's/-o [[:graph:]]+/-o both/' /var/www/sync/startdmxplaybackaudio01");
+exec("sudo sed -ri 's/-o [[:graph:]]+/-o both/' /var/www/sync/startdmxplaybackaudio02");
+exec("sudo sed -ri 's/-o [[:graph:]]+/-o both/' /var/www/sync/startdmxplaybackaudio03");
+exec("sudo sed -ri 's/-o [[:graph:]]+/-o both/' /var/www/sync/startdmxplaybackaudio04");
+exec("sudo sed -ri 's/-o [[:graph:]]+/-o both/' /var/www/sync/startdmxplaybackaudio05");
+exec("sudo sed -ri 's/-o [[:graph:]]+/-o both/' /var/www/sync/startdmxplaybackvid01");
+exec("sudo sed -ri 's/-o [[:graph:]]+/-o both/' /var/www/sync/startdmxplaybackvid02");
+exec("sudo sed -ri 's/-o [[:graph:]]+/-o both/' /var/www/sync/startdmxplaybackvid03");
+exec("sudo sed -ri 's/-o [[:graph:]]+/-o both/' /var/www/sync/startdmxplaybackvid04");
+exec("sudo sed -ri 's/-o [[:graph:]]+/-o both/' /var/www/sync/startdmxplaybackvid05");
 });
 
 receiver.on('/audiousb', function () {
@@ -266,6 +301,17 @@ exec("sudo sed -ri 's/-o [[:graph:]]+/-o alsa:hw:1,0/' /var/www/sync/startseamle
 exec("sudo sed -ri 's/-o [[:graph:]]+/-o alsa:hw:1,0/' /var/www/sync/startaudio");
 exec("sudo sed -ri 's/-o [[:graph:]]+/-o alsa:hw:1,0/' /var/www/sync/startaudioslave");
 exec("sudo sed -ri 's/-o [[:graph:]]+/-o alsa:hw:1,0/' /var/www/sync/startaudiousb");
+//#set the audio on dmx scripts
+exec("sudo sed -ri 's/-o [[:graph:]]+/-o alsa:hw:1,0/' /var/www/sync/startdmxplaybackaudio01");
+exec("sudo sed -ri 's/-o [[:graph:]]+/-o alsa:hw:1,0/' /var/www/sync/startdmxplaybackaudio02");
+exec("sudo sed -ri 's/-o [[:graph:]]+/-o alsa:hw:1,0/' /var/www/sync/startdmxplaybackaudio03");
+exec("sudo sed -ri 's/-o [[:graph:]]+/-o alsa:hw:1,0/' /var/www/sync/startdmxplaybackaudio04");
+exec("sudo sed -ri 's/-o [[:graph:]]+/-o alsa:hw:1,0/' /var/www/sync/startdmxplaybackaudio05");
+exec("sudo sed -ri 's/-o [[:graph:]]+/-o alsa:hw:1,0/' /var/www/sync/startdmxplaybackvid01");
+exec("sudo sed -ri 's/-o [[:graph:]]+/-o alsa:hw:1,0/' /var/www/sync/startdmxplaybackvid02");
+exec("sudo sed -ri 's/-o [[:graph:]]+/-o alsa:hw:1,0/' /var/www/sync/startdmxplaybackvid03");
+exec("sudo sed -ri 's/-o [[:graph:]]+/-o alsa:hw:1,0/' /var/www/sync/startdmxplaybackvid04");
+exec("sudo sed -ri 's/-o [[:graph:]]+/-o alsa:hw:1,0/' /var/www/sync/startdmxplaybackvid05");
 });
 
 
@@ -1596,6 +1642,33 @@ receiver.on('/startdmxvidplayback04', function () {
 receiver.on('/startdmxvidplayback05', function () {
   console.log('Start DMX Show&Video 05');
   exec("sudo /var/www/sync/startdmxplaybackvid05 > /dev/null &");
+  });
+
+//start show with audio
+
+receiver.on('/startdmxaudioplayback01', function () {
+  console.log('Start DMX Show01&Audio 01');
+  exec("sudo /var/www/sync/startdmxplaybackaudio01 > /dev/null &");
+  });
+
+receiver.on('/startdmxaudioplayback02', function () {
+  console.log('Start DMX Show02&Audio 02');
+  exec("sudo /var/www/sync/startdmxplaybackaudio02 > /dev/null &");
+  });
+
+receiver.on('/startdmxaudioplayback03', function () {
+  console.log('Start DMX Show03&Audio 03');
+  exec("sudo /var/www/sync/startdmxplaybackaudio03 > /dev/null &");
+  });
+
+receiver.on('/startdmxaudioplayback04', function () {
+  console.log('Start DMX Show04&Audio 04');
+  exec("sudo /var/www/sync/startdmxplaybackaudio04 > /dev/null &");
+  });
+
+receiver.on('/startdmxaudioplayback05', function () {
+  console.log('Start DMX Show05&Audio 05');
+  exec("sudo /var/www/sync/startdmxplaybackaudio05 > /dev/null &");
   });
 
 // start dmx playback show only
