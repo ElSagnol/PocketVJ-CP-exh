@@ -1,6 +1,7 @@
 **Roadmap / Next Steps:** <p/>
 
 - fix slightly screen tearing in mapping since edgeblend is introduces(coming with next CP update..) <p/>
+- add mapper sync and alternative sync (coming with next CP update..)  <p/>
 - think about adding sonic pi <p/>
 - test UDP and add more commands to the script <p/>
 <p/>
@@ -20,6 +21,7 @@
 
 **Tutorials/Manual:** <p/>
 
+- how to use the dmx delay function to sync audio/video with recorded dmx/artnet <p/>
 - how to change the distance of the pir sensor, factory wise set to ~5m and can be changed from ~3 to ~7m<p/>
 - remote mapper<p/>
 - create list of OSC/midi commands for website (without code around it)<p/>
@@ -31,3 +33,4 @@
 **Tests:** <p/>
 
 - test sync script with large files, adjust window if necessary<p/>
+- test autostart of dmxshow<p/>
