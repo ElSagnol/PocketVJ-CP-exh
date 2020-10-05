@@ -14,6 +14,7 @@
 - System alive ping, which sends out an email every 5 minutes to tell that beamer&pocketvj is alive, alarm function. <p/>
 - AES67 Support, is it possible (https://github.com/dewiweb/ALSA-RAVENNA-AES67-Driver) Edit: Dante USB-donles are supported <p/>
 - Add DMX in control commands to control the video player/mapper with DMX <p/>
+- Autoomount and connect to usb lte modems for remote internet<p/>
 - Complete authors file <p/>
 - parse dmx sequences from *cough* software to playback on PocketVj (similar to mapping converter <p/>
 <p/>
