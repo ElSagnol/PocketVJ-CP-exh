@@ -3,10 +3,10 @@
 - fix slightly screen tearing in mapping since edgeblend is introduces(coming with next CP update..) <p/>
 - add mapper sync and alternative sync (coming with next CP update..)  <p/>
 - think about adding sonic pi <p/>
-- test UDP and add more commands to the script <p/>
+- test https://dicaffeine.com/, it it works, talk to the dev about licensing  <p/>
 <p/>
 
-- Add Buttons to trigger dmxshow together with videoplayer sync (already works with osc/scheduler) <p/>
+- Add Buttons to trigger dmxshow together with videoplayer sync (already works with osc/scheduler, sync might cause a lot of webtraffic) <p/>
 - manual start of ken-burns slideshow (currently only with autostart) <p/>
 - slideshow with different times of images depending on number in file-name of image  <p/>
 - fix bug when clock on screen, after stop it does not go away <p/>
