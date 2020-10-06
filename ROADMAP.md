@@ -5,7 +5,8 @@
 - think about adding sonic pi <p/>
 - test https://dicaffeine.com/, if it works, talk to the dev about licensing  <p/>
 <p/>
-
+- Add gender recognition based on openCV to trigger gender based content <p/>
+- Add scripts to trigger content based on humidity/temperature <p/>
 - Add Buttons to trigger dmxshow together with videoplayer sync (already works with osc/scheduler, sync might cause a lot of webtraffic) <p/>
 - manual start of ken-burns slideshow (currently only with autostart) <p/>
 - slideshow with different times of images depending on number in file-name of image  <p/>
