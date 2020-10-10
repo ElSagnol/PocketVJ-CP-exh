@@ -1,5 +1,10 @@
 # PocketVJ Exhibition / Control Panel 3.x.x
 
+## CP 3.1.4 10.Oktober 2020<br />
+- added midi recorder (beta, please test and report back!)   <p/>
+- added midi playback    <p/>
+- added midi/dmx/audio/video playback    <p/>
+
 ## CP 3.1.3 7.Oktober 2020<br />
 - fixed ArtNet output which was not working, do a factory reset after updating to fix!  <p/>
 - added IP range changer, most show equipment runs on 10.0.0.* networks, this can be cahnged now with one click  <p/>
