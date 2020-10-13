@@ -3,7 +3,9 @@
 - fix slightly screen tearing in mapping since edgeblend is introduces(coming soon, as workaround use mapperFBO..) <p/>
 - add mapper sync and alternative sync (coming soon..)  <p/>
 
+
 <p/>
+- Fix the ArtNet Universe limit, which is currently 4 <p/>
 - Add gender recognition based on openCV to trigger gender based content <p/>
 - Add scripts to trigger content based on humidity/temperature <p/>
 - Add Buttons to trigger dmxshow together with videoplayer sync (already works with osc/scheduler, sync might cause a lot of webtraffic) <p/>
