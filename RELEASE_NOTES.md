@@ -5,6 +5,8 @@
 - fixed button functions, it was self killing, now it works as expected  <p/>
 - added "stop buttons" knob, to kill button input (needed to be seperate for not self killing)  <p/>
 - when bushed a knob, the led will blink for 0.5 seconds as visuals control  <p/>
+- fixed slideshow start from button  <p/>
+- set button bounce time to 2sec (after pressing a button it takes 2 seconds until it will reads the next push)  <p/>
 - fixed bug when using clock on screen, it did not disappear after hitting stop  <p/>
 
 ## CP 3.1.4 10.Oktober 2020<br />
