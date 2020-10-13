@@ -1,23 +1,24 @@
 **Roadmap / Next Steps:** <p/>
 
-- fix slightly screen tearing in mapping since edgeblend is introduces(coming with next CP update..) <p/>
-- add mapper sync and alternative sync (coming with next CP update..)  <p/>
-- think about adding sonic pi <p/>
-- test https://dicaffeine.com/, if it works, talk to the dev about licensing  <p/>
+- fix slightly screen tearing in mapping since edgeblend is introduces(coming soon, as workaround use mapperFBO..) <p/>
+- add mapper sync and alternative sync (coming soon..)  <p/>
+
 <p/>
 - Add gender recognition based on openCV to trigger gender based content <p/>
 - Add scripts to trigger content based on humidity/temperature <p/>
 - Add Buttons to trigger dmxshow together with videoplayer sync (already works with osc/scheduler, sync might cause a lot of webtraffic) <p/>
 - manual start of ken-burns slideshow (currently only with autostart) <p/>
 - slideshow with different times of images depending on number in file-name of image  <p/>
-- fix bug when clock on screen, after stop it does not go away <p/>
 - play images and videos after each other, depending on filename or with an ofx timeline  <p/>
 - System alive ping, which sends out an email every 5 minutes to tell that beamer&pocketvj is alive, alarm function. <p/>
 - AES67 Support, is it possible (https://github.com/dewiweb/ALSA-RAVENNA-AES67-Driver) Edit: Dante USB-donles are supported <p/>
 - Add DMX in control commands to control the video player/mapper with DMX <p/>
-- Autoomount and connect to usb lte modems for remote internet<p/>
+- Automount and connect to usb lte modems for remote internet<p/>
 - Complete authors file <p/>
 - parse dmx sequences from *cough* software to playback on PocketVj (similar to mapping converter <p/>
+- think about adding sonic pi <p/>
+- make https://dicaffeine.com/ working with our linux version and talk to dev about licensing <p/>
+
 <p/>
 
 
